@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Env
+### `REACT_APP_API_URL = URL-BACKEND`
+
 ## Available Scripts
 
 In the project directory, you can run:
